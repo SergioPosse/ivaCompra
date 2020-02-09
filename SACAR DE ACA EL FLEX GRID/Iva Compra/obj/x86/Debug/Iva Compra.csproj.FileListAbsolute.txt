@@ -1,0 +1,30 @@
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\Iva Compra.csproj.ResolveComReference.cache
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\Iva_Compra.Frm_Ini.resources
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\Iva_Compra.Properties.Resources.resources
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\bin\Debug\Iva Compra.exe
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\bin\Debug\Iva Compra.pdb
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\Iva Compra.exe
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\Iva Compra.pdb
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\bin\Debug\Iva Compra.exe.config
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Agustin\Desktop\IVA Compra\Iva\Iva Compra\Iva Compra\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+D:\Iva Compra\Iva Compra\bin\Debug\Iva Compra.exe.config
+D:\Iva Compra\Iva Compra\obj\x86\Debug\Interop.MSFlexGridLib.dll
+D:\Iva Compra\Iva Compra\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+D:\Iva Compra\Iva Compra\obj\x86\Debug\Iva Compra.csproj.ResolveComReference.cache
+D:\Iva Compra\Iva Compra\obj\x86\Debug\Iva Compra.exe
+D:\Iva Compra\Iva Compra\obj\x86\Debug\Iva Compra.pdb
+D:\Iva Compra\Iva Compra\bin\Debug\Iva Compra.exe
+D:\Iva Compra\Iva Compra\bin\Debug\Iva Compra.pdb
+D:\Iva Compra\Iva Compra\bin\Debug\Interop.MSFlexGridLib.dll
+D:\Iva Compra\Iva Compra\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\Iva Compra\Iva Compra\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Iva Compra\Iva Compra\obj\x86\Debug\Iva_Compra.Frm_Ini.resources
+D:\Iva Compra\Iva Compra\obj\x86\Debug\Iva_Compra.Properties.Resources.resources
+D:\Iva Compra\Iva Compra\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Iva Compra\Iva Compra\obj\x86\Debug\GenerateResource.write.1.tlog
